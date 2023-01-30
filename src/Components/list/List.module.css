@@ -1,0 +1,47 @@
+.list {
+	min-width: 282px;
+	height: fit-content;
+	background: #EBECF0;
+	padding: 12px;
+	border-radius: 10px;
+	margin: 15px;
+    position: relative;
+}
+
+.listTitle {
+	margin-top: 0;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.task {
+	background: white;
+	color: black;
+	margin: 7px 0;
+	padding: 8px;
+	border-radius: 5px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.task:hover {
+    cursor: pointer;
+}
+
+.taskLink {
+	text-decoration: none;
+}
+
+.addButton {
+	background: none;
+	border: none;
+	appearance: none;
+	font-size: 15px;
+	color: #5E6C84;
+	cursor: pointer;
+    bottom: 8px;
+}
+
+.addButton:hover {
+	color: #000;
+}

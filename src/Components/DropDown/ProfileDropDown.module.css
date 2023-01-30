@@ -1,0 +1,13 @@
+.profileSelect {
+	padding: 8px;
+	border-radius: 8px;
+    background: white;
+    width: 134px;
+    height: 60px;
+    color: black;
+    z-index: 100;
+}
+
+.logOut {
+    margin-bottom: 10px;
+}

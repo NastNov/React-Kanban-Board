@@ -1,0 +1,31 @@
+
+.footer{
+	margin-top: 1rem;
+	background: #0067A3;
+	color: white;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	padding: 0px;
+	justify-content: space-between;
+	height: 55px;
+  }
+
+  .tasksCount {
+	display: flex;
+  }
+
+  .active {
+	margin-left: 20px;
+  }
+
+  .finished {
+	margin-left: 36px;
+  }
+
+  .authorName {
+	margin-right: 20px;
+  }
